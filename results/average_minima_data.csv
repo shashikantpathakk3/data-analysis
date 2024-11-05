@@ -1,0 +1,5 @@
+sub_folder_name,dose_value,positive_Ids_minima_1,positive_Ids_minima_2,negative_Ids_minima_1,negative_Ids_minima_2,diff_positive_Ids_minima,diff_negative_Ids_minima,positive_Vds_minima_1,positive_Vds_minima_2,negative_Vds_minima_1,negative_Vds_minima_2,diff_positive_Vds_minima,diff_negative_Vds_minima,diff_dominant_positive_negative_Ids_minima,diff_dominant_positive_negative_Vds_minima,diff_dominant_positive_negative_Vds_minima
+dose-16,9.30E-14,-30.00864378,-29.07243445,-29.9815104,-25.76798918,0.936209329,4.340966814,0.755,0.21,-0.61,-0.555555556,-0.545,0.061111111,-0.027133378,1.365,-1.365
+dose-12,9.30E-10,-28.7280567,-27.55950934,-24.97854659,-24.25142086,1.168547357,0.727125726,0.585,0.495,-0.3,-0.425,-0.09,-0.125,-3.749510111,0.885,-0.885
+dose-8,9.30E-06,-25.45167698,-24.79082631,-23.43457143,-23.14691355,0.660850669,0.287657882,0.336363636,0.536363636,-0.177272727,-0.177272727,0.2,2.02E-17,-2.017105548,0.513636364,-0.513636364
+dose-6,9.30E-04,-24.11971347,-23.42404256,-21.86705485,-21.30329549,0.695670916,0.563759351,0.255,0.66,-0.18,-0.32,0.405,-0.14,-2.252658625,0.435,-0.435
